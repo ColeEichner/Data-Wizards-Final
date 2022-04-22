@@ -13,16 +13,19 @@ SGI2@pitt.edu
 **Jordan Janotka**	
 JTJ22@pitt.edu
 
+#
 ### City of Pittsburgh Trees
 https://data.wprdc.org/dataset/city-trees)
 
 Contains the location, quality, name, cost information, and other information about each tree in Pittsburgh.
 
+#
 ### City of Pittsburgh Parks
 (https://data.wprdc.org/dataset/parks)
 
 Information about the size and location of Parks in Pittsburgh.
 
+#
 ### City of Pittsburgh Traffic Count
 (https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh)
 
